@@ -32,4 +32,4 @@ Estudante de Sistema de Informação
 
 ### Repository in progress
 
-<div width="100%"><a href="https://github.com/snubdev/API_EBAC" align="left"><img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=snubdev&repo=API_EBAC&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/snubdev/sala_video" align="right"><img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=snubdev&repo=sala_video&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%"><a href="https://github.com/snubdev/sala_video" align="right"><img width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=snubdev&repo=sala_video&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
