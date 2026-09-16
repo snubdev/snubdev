@@ -1,10 +1,10 @@
 Maicon Leandro
 ===============================
 
-Desenvolvedor Python
+Data Engineer
 --------------------
 
-Estudante de Sistema de Informação
+Backend & Data Engineer | Python, IA
 
 ### Skills
 
