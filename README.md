@@ -9,115 +9,40 @@ Backend & Data Engineer | Python, IA
 ### Skills
 
 <p align="left">
-
-  <!-- Python -->
-
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/python.svg"
-         alt="Python"
-         title="Python"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/python.svg" alt="Python" title="Python" width="36" height="36" />
   </a>
-
-  <!-- Pandas -->
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/pandas.svg"
-         alt="Pandas"
-         title="Pandas"
-         width="36"
-         height="36" />
-  </a>
-
-  <!-- Django -->
-
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/django-icon.svg"
-         alt="Django"
-         title="Django"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/django-icon.svg" alt="Django" title="Django" width="36" height="36" />
   </a>
-
-  <!-- FastAPI -->
-
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://devicons.io/devicons/icons/pandas.svg" alt="Pandas" title="Pandas" width="36" height="36" />
+  </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/fastapi-icon.svg"
-         alt="FastAPI"
-         title="FastAPI"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/fastapi-icon.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />
   </a>
-
-  <!-- NumPy -->
-
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/numpy.svg"
-         alt="NumPy"
-         title="NumPy"
-         width="36"
-         height="36" />
-  </a>
-
-  <!-- Selenium -->
-
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/selenium.svg"
-         alt="Selenium"
-         title="Selenium"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/selenium.svg" alt="Selenium" title="Selenium" width="36" height="36" />
   </a>
-
-  <!-- PostgreSQL -->
-
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/postgresql.svg"
-         alt="PostgreSQL"
-         title="PostgreSQL"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
   </a>
-
-  <!-- AWS -->
-
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/aws.svg"
-         alt="Amazon Web Services"
-         title="Amazon Web Services"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/aws.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" />
   </a>
-
-  <!-- Docker -->
-
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/docker-icon.svg"
-         alt="Docker"
-         title="Docker"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/docker-icon.svg" alt="Docker" title="Docker" width="36" height="36" />
   </a>
-
-  <!-- Apache Airflow -->
-
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/airflow.svg"
-         alt="Apache Airflow"
-         title="Apache Airflow"
-         width="36"
-         height="36" />
+    <img src="https://devicons.io/devicons/icons/airflow.svg" alt="Apache Airflow" title="Apache Airflow" width="36" height="36" />
   </a>
-
 </p>
 
-### Socials
+### Badges
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=snubdev&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=snubdev&langs_count=4&theme=dark_github)
 
-<p align="left"> <a href="https://www.github.com/snubdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maicon-leandro-663478195" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <!--
-### Badges
 
 <a href="https://github.com/snubdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snubdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
