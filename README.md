@@ -12,17 +12,14 @@ Backend & Data Engineer | Python, IA
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://devicons.io/devicons/icons/python.svg" alt="Python" title="Python" width="36" height="36" />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/pandas.svg" alt="Pandas" title="Pandas" width="36" height="36" />
-  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://devicons.io/devicons/icons/django-icon.svg" alt="Django" title="Django" width="36" height="36" />
   </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://devicons.io/devicons/icons/pandas.svg" alt="Pandas" title="Pandas" width="36" height="36" />
+  </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://devicons.io/devicons/icons/fastapi-icon.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.io/devicons/icons/numpy.svg" alt="NumPy" title="NumPy" width="36" height="36" />
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://devicons.io/devicons/icons/selenium.svg" alt="Selenium" title="Selenium" width="36" height="36" />
